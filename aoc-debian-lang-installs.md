@@ -1,4 +1,4 @@
-## OSX
+## Debian / Ubuntu
 
 ### javascript
 
@@ -73,7 +73,7 @@ go run hello.go
 
 ```
 // bash
-brew install clojure
+sudo apt-get install clojure
 
 // hello.clj
 (println "Hello, World!")
