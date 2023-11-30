@@ -111,7 +111,7 @@ cobc -x -free hello.cob
 ./hello
 ```
 
-### cobol
+### prolog
 
 ```
 // bash
@@ -259,20 +259,6 @@ void main() {
 
 // bash
 dart hello.dart
-```
-
-### nim
-
-```
-// bash
-brew install nim
-
-// hello.nim
-echo "Hello, World!"
-
-// bash
-nim js -d:nodejs hello.nim
-./hello
 ```
 
 ### nim
