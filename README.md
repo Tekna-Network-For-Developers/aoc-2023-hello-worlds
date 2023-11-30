@@ -1,2 +1,5 @@
 # aoc-2023-hello-worlds
-Some readmes on install and hello world instructions for the aoc tekna event 
+
+Contains readmes on installing and writing hello world in a number of languages incase you're too lazy to figure it out yourself
+
+For OSX [go here](aoc-osx-lang-installs.md)
