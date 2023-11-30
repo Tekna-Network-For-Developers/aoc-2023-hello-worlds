@@ -69,7 +69,7 @@ func main() {
 go run hello.go
 ```
 
-### closure
+### clojure
 
 ```
 // bash
